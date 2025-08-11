@@ -1,14 +1,19 @@
 # TimelineApp - Stage 1
 
-## Description
-A simple HTML-only structure for a timeline-based web application.
+A responsive, polished timeline web application layout using HTML and CSS. This project showcases a simple timeline interface with styled event blocks, a modal system (prepared but hidden by default), and full responsiveness across mobile, tablet, and desktop devices.
 
-## Features
-- `<header>` with project title, logo, and a theme toggle button (non-functional).
-- Empty `<nav>` for future filters or controls.
-- `<main>` section with:
-  - `<section id="timeline">` to hold timeline events.
-  - `<div id="modal">` for future popup/modal content.
+---
 
-## Notes
-This version includes only HTML structure. No CSS or JavaScript functionality is added yet.
+## 🚀 Features
+
+- Responsive layout using **CSS Grid** for the timeline
+- Styled **header** with logo and theme toggle button
+- Placeholder **timeline event markers** with dot indicators
+- Accessible **modal component** (hidden by default)
+- Clean **typography** and a modern **color scheme**
+- Optimized for breakpoints:
+  - Mobile: `<768px`
+  - Tablet: `768–1023px`
+  - Desktop: `≥1024px`
+
+---
